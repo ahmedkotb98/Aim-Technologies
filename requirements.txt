@@ -7,3 +7,4 @@ requests==2.27.1
 spacy==3.2.3
 streamlit==1.7.0
 uvicorn==0.17.6
+transformers==4.17.0
